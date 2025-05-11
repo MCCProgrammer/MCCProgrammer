@@ -14,5 +14,5 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 ### 💻 My Projects
-- [Here is my Personal Portefolio](link-do-projeto)  
-- Or see my Pinned Projects Down bellow 👇
+- [Here is my Personal Portfolio](link-do-projeto)  
+- Or see my **Pinned Projects** **down bellow** 👇
