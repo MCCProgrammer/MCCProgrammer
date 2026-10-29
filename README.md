@@ -14,7 +14,7 @@
 
 | Project | What it is |
 | --- | --- |
-| 📈 **[ExtPulse](https://github.com/MCCProgrammer/extpulse)** | Daily installs, reviews and alerts for VS Code and Chrome extensions: Java and Spring Boot, live on Oracle Cloud ([live](https://extpulse.mccprogrammer.com/p/mccprogrammer)) |
+| 📈 **[ExtPulse](https://github.com/MCCProgrammer/extpulse)** | Daily installs, reviews and alerts for VS Code and Chrome extensions: Java and Spring Boot, live on Oracle Cloud |
 | 💸 **[MoneyGraph](https://moneygraph.mccprogrammer.com)** | Personal finance app: budgets, goals, net worth and AI insights; live on the web, iPhone app on the way |
 | 🗣️ **[VoiceDriven](https://voicedriven.mccprogrammer.com)** | Customer feedback SaaS for indie hackers: embeddable widget, AI grouping of duplicate requests and public roadmaps (beta) |
 | 🎙️ **[Jarvis](https://github.com/MCCProgrammer/AI-Voice-Assistant)** | Desktop AI voice assistant powered by Claude, with a wake word, visual cards and reminders |
