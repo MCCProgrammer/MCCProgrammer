@@ -14,15 +14,18 @@
 
 | Project | What it is |
 | --- | --- |
-| 🗣️ **[VoiceDriven](https://voice-driven.vercel.app)** | Customer feedback SaaS for indie hackers: embeddable widget, AI grouping of duplicate requests and public roadmaps |
-| 💸 **MoneyGraph** | Personal finance app for the web and iPhone: budgets, goals, net worth and AI insights |
+| 📈 **[ExtPulse](https://github.com/MCCProgrammer/extpulse)** | Daily installs, reviews and alerts for VS Code and Chrome extensions: Java and Spring Boot, live on Oracle Cloud ([live](https://extpulse.mccprogrammer.com/p/mccprogrammer)) |
+| 💸 **[MoneyGraph](https://moneygraph.mccprogrammer.com)** | Personal finance app: budgets, goals, net worth and AI insights; live on the web, iPhone app on the way |
+| 🗣️ **[VoiceDriven](https://voicedriven.mccprogrammer.com)** | Customer feedback SaaS for indie hackers: embeddable widget, AI grouping of duplicate requests and public roadmaps (beta) |
 | 🎙️ **[Jarvis](https://github.com/MCCProgrammer/AI-Voice-Assistant)** | Desktop AI voice assistant powered by Claude, with a wake word, visual cards and reminders |
 | 📁 **[GitHub Repo Folders](https://github.com/MCCProgrammer/Github-Chrome-Extension)** | Chrome extension that organizes your GitHub repositories into folders |
+| 📬 **[Unified Inbox for Gmail](https://github.com/MCCProgrammer/unified-inbox-gmail-extension)** | Open-source Chrome extension: every Gmail account in one inbox, inside Gmail |
 
 **VS Code extensions**, published on the [VS Code Marketplace](https://marketplace.visualstudio.com/publishers/MCCProgrammer) and [Open VSX](https://open-vsx.org/namespace/MCCProgrammer):
 [Markify](https://github.com/MCCProgrammer/markitdown-vscode-extension) ·
 [GitHub Style Markdown Preview](https://github.com/MCCProgrammer/github-style-markdown-preview) ·
 [Debug Data Structures Visualizer](https://github.com/MCCProgrammer/debug-dataStructures-visualizer-extension) ·
+[Debug Sorting Algorithms Visualizer](https://github.com/MCCProgrammer/debug-sorting-algorithms-visualizer) ·
 [Diff Checker](https://github.com/MCCProgrammer/diff-checker-vscode-extension)
 
 **Hardware:**
